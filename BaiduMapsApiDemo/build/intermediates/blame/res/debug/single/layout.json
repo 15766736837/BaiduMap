@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_indoor_search.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_indoor_search.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favorite_alert.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_favorite_alert.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\custom_text_view.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\custom_text_view.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_transit_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_district_search_demo.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_district_search_demo.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\offline_localmap_list.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\offline_localmap_list.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radarlist.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_radarlist.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share_demo.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_share_demo.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geometry.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_geometry.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_overlay.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_overlay.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_dialog.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_transit_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_poisearch.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lbssearch.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_lbssearch.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\text_bubble.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\text_bubble.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_baidumap.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_open_baidumap.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cloud_search_demo.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_cloud_search_demo.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_busline.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_marker_cluster_demo.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_marker_cluster_demo.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tile_overlay_demo.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_tile_overlay_demo.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opengl.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_opengl.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_indoor.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_indoor.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favorite.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_favorite.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_heatmap.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_heatmap.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radartablayout.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_radartablayout.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multimap.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_multimap.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tile_demo.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_tile_demo.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uisetting.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_uisetting.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layers.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_layers.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share_demo_activity.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_share_demo_activity.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_offline.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favorite_infowindow.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_favorite_infowindow.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_texture_map_view_demo.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_texture_map_view_demo.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geocoder.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_geocoder.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_routeplan.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mapcontrol.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_mapcontrol.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clustering_demo.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_clustering_demo.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\demo_info_item.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\demo_info_item.xml"
+    },
+    {
+        "merged": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radarmap.xml",
+        "source": "E:\\code\\AndroidCode\\BaiDuMap\\BaiduMapsApiDemo\\res\\layout\\activity_radarmap.xml"
+    }
+]
